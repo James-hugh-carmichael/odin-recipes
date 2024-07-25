@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: green;
+    color: rgb(45, 3, 70);
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.description{
+    background-color: lightblue;
+    text-align: center;
+}
